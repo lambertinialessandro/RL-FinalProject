@@ -18,7 +18,7 @@ Final project for the course of Reinforcement Learning 2020/2021.
 
 ## 💯 Final score:
 
-Score: `30L`
+Score: `30L/30`
 
 ## 🙋 Info
 
