@@ -30,6 +30,37 @@ for any doubt or clarification contact me on:
 ## 🎞️ Snapshots
 
 <p align="center">
-    <img src="./READMEimages/img1.png" style="width: 750px;"></img>
+    <img src="./READMEimages/env1.png" style="width: 850px; height: 200px"></img>
     <br>
+    Env
+</p>
+
+<p align="center">
+    <video width="320" height="240" controls>
+        <source src="./READMEimages/env1_video.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <br>
+    Env
+</p>
+
+<p align="center">
+    <img src="./READMEimages/env2.png" style="width: 650px; height: 300px"></img>
+    <br>
+    Env
+</p>
+
+<p align="center">
+    <img src="./READMEimages/env3.png" style="width: 850px; height: 200px"></img>
+    <br>
+    Env
+</p>
+
+<p align="center">
+    <video width="320" height="240" controls>
+        <source src="./READMEimages/env3_video.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <br>
+    Env
 </p>
