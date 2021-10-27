@@ -32,7 +32,7 @@ for any doubt or clarification contact me on:
 <p align="center">
     <img src="./READMEimages/env1.png" style="width: 850px; height: 200px"></img>
     <br>
-    Carpole Enviroment
+    Carpole Enviroment with Belief Map
 </p>
 
 <p align="center">
@@ -44,13 +44,13 @@ for any doubt or clarification contact me on:
 <p align="center">
     <img src="./READMEimages/env2.png" style="width: 650px; height: 300px"></img>
     <br>
-    Taxi Enviroment
+    Taxi Enviroment with Belief Map
 </p>
 
 <p align="center">
     <img src="./READMEimages/env3.png" style="width: 850px; height: 200px"></img>
     <br>
-    Our Enviroment
+    Our Enviroment with Belief Map
 </p>
 
 <p align="center">
