@@ -32,35 +32,29 @@ for any doubt or clarification contact me on:
 <p align="center">
     <img src="./READMEimages/env1.png" style="width: 850px; height: 200px"></img>
     <br>
-    Env
+    Carpole Enviroment
 </p>
 
 <p align="center">
-    <video width="320" height="240" controls>
-        <source src="./READMEimages/env1_video.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+    <img src="./READMEimages/env1_video.gif" style="width: 500px; height: 300px"></img>
     <br>
-    Env
+    Video of one epoch of Carpole Enviroment
 </p>
 
 <p align="center">
     <img src="./READMEimages/env2.png" style="width: 650px; height: 300px"></img>
     <br>
-    Env
+    Taxi Enviroment
 </p>
 
 <p align="center">
     <img src="./READMEimages/env3.png" style="width: 850px; height: 200px"></img>
     <br>
-    Env
+    Our Enviroment
 </p>
 
 <p align="center">
-    <video width="320" height="240" controls>
-        <source src="./READMEimages/env3_video.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+    <img src="./READMEimages/env3_video.gif" style="width: 300px; height: 300px"></img>
     <br>
-    Env
+    Video of one epoch of Our Enviroment
 </p>
