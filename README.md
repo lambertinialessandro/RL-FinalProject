@@ -9,7 +9,9 @@ Final project for the course of Reinforcement Learning 2020/2021.
 ## 📝 Assignment
 
 1.	Reimplement the Paper [Link 🔗](https://arxiv.org/abs/2011.05064) (Github page of the paper [Link 🔗](https://github.com/hmhyau/rl-intention))
+    -   [RL]implementation.ipynb [Open In Collab 🔗](https://colab.research.google.com/github/lambertinialessandro/RL-FinalProject/blob/main/[RL]implementation.ipynb)
 2.  Improving the paper in large and complex environments.
+    -   [RL]experiments.ipynb [Open In Collab 🔗](https://colab.research.google.com/github/lambertinialessandro/RL-FinalProject/blob/main/[RL]experiments.ipynb)
 
 ## 📜 Report
 -   report [Link 🔗](./RL%20project%20report.pdf)
